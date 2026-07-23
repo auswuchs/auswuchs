@@ -1,12 +1,12 @@
 # Hi, I'm Evgeny 👋
 
-**Senior Frontend Developer — Vue 3 / Nuxt / TypeScript**
+**Frontend Developer — Vue 3 / Nuxt / TypeScript**
 
 6+ years building complex web interfaces: from designing architecture and component libraries from scratch to dashboards, visual editors and real-time UIs.
 
 - 🧩 Author of an internal **design system** (Vue 3 + shadcn-vue + Reka UI) — components, design tokens, Storybook, tests
 - 🤖 Build & use **AI dev tooling** — Cursor, Claude Code, custom MCP servers
-- 📚 Currently learning **Go**
+- 📚 Currently learning **Go**, **Dart** & **Flutter**
 
 ### Tech
 
