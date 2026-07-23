@@ -4,9 +4,8 @@
 
 6+ years building complex web interfaces: from designing architecture and component libraries from scratch to dashboards, visual editors and real-time UIs.
 
-- 🧩 Author & maintainer of an internal **design system** (Vue 3 + shadcn-vue + Reka UI) — components, design tokens, Storybook, tests
-- 🛠️ Owner of a team's **frontend standards** — ESLint / Stylelint, module architecture, code review
-- 🤖 Heavy user & builder of **AI dev tooling** — Cursor, Claude Code, custom MCP servers
+- 🧩 Author of an internal **design system** (Vue 3 + shadcn-vue + Reka UI) — components, design tokens, Storybook, tests
+- 🤖 Build & use **AI dev tooling** — Cursor, Claude Code, custom MCP servers
 - 📚 Currently learning **Go**
 
 ### Tech
@@ -19,8 +18,3 @@
 - **[vue-dialog](https://github.com/auswuchs/vue-dialog)** — a programmatically invoked Vue dialog. → `npm i @auswuchs/vue-dialog`
 
 > Most of my commercial work — the design system, production apps and internal tooling — lives in private / company repositories.
-
-### Contact
-
-- Telegram — [@auswuchs](https://t.me/auswuchs)
-- Email — auswuchs@protonmail.com
