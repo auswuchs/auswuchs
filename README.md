@@ -10,11 +10,12 @@
 
 ### Tech
 
-`Vue 2/3` · `Nuxt 3/4` · `TypeScript` · `Pinia` · `Vue Router` · `Tailwind CSS` · `SCSS` · `Vite` · `Storybook` · `Vitest` · `Playwright` · `TanStack` · `Electron` · `WebSocket` · `GitLab CI/CD`
+`Vue 2/3` · `Nuxt 3/4` · `React` · `TypeScript` · `GraphQL` · `Pinia` · `Vue Router` · `Tailwind CSS` · `SCSS` · `Vite` · `Storybook` · `Vitest` · `Playwright` · `TanStack` · `Electron` · `WebSocket` · `GitLab CI/CD`
 
 ### Featured
 
 - **[awg-converter](https://github.com/auswuchs/awg-converter)** — browser-based AmneziaWG config converter. No backend, no tracking. → [**Live demo**](https://auswuchs.github.io/awg-converter/)
+- **[rick-and-morty-catalog](https://github.com/auswuchs/rick-and-morty-catalog)** — a React + GraphQL pet project: Apollo Client, types generated from the schema, favorites, tests. → [**Live demo**](https://auswuchs.github.io/rick-and-morty-catalog/)
 - **[vue-dialog](https://github.com/auswuchs/vue-dialog)** — a programmatically invoked Vue dialog. → `npm i @auswuchs/vue-dialog`
 
 > Most of my commercial work — the design system, production apps and internal tooling — lives in private / company repositories.
